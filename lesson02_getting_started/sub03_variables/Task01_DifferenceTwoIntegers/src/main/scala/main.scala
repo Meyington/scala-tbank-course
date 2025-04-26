@@ -1,5 +1,5 @@
 import scala.io.StdIn.readInt
 
-object main extends App {
+object Main extends App {
   println(readInt() - readInt())
 }
