@@ -30,3 +30,12 @@ lesson02_getting_started/sub04_namespace/Task01_NamespaceConfig/.idea/sbt.xml
 lesson02_getting_started/sub04_namespace/Task01_NamespaceConfig/.idea/scala_compiler.xml
 lesson02_getting_started/sub04_namespace/Task01_NamespaceConfig/.idea/scala_settings.xml
 lesson02_getting_started/sub04_namespace/Task01_NamespaceConfig/.idea/vcs.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.gitignore
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/.gitignore
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/codeStyles/Project.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/codeStyles/codeStyleConfig.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/misc.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/sbt.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/scala_compiler.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/scala_settings.xml
+lesson03_types/sub01_types/Task01_NormalDistribution/.idea/vcs.xml
