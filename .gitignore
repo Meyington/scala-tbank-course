@@ -48,3 +48,12 @@ lesson03_types/sub02_numbers/Task01_CrispsWeight/.idea/sbt.xml
 lesson03_types/sub02_numbers/Task01_CrispsWeight/.idea/scala_compiler.xml
 lesson03_types/sub02_numbers/Task01_CrispsWeight/.idea/scala_settings.xml
 lesson03_types/sub02_numbers/Task01_CrispsWeight/.idea/vcs.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.gitignore
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/.gitignore
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/codeStyles/Project.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/codeStyles/codeStyleConfig.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/misc.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/sbt.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/scala_compiler.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/scala_settings.xml
+lesson03_types/sub02_numbers/Task02_CountBin/.idea/vcs.xml
