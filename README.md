@@ -18,8 +18,8 @@
 |-----------------------------|-----------------------------|--------|
 |   lesson01_intro/           | Введение в Scala            | ✅ |
 |   lesson02_getting_started/ | Начало работы               | ✅ |
-|   lesson03_types/           | Типы                        | ⏳ |
-|   lesson04_functions/       | Функции                     | ❌ |
+|   lesson03_types/           | Типы                        | ✅ |
+|   lesson04_functions/       | Функции                     | ⏳ |
 |   lesson05_operators/       | Операторы                   | ❌ |
 |   lesson06_collections/     | Коллекции                   | ❌ |
 |   lesson07_classes/         | Классы                      | ❌ |
