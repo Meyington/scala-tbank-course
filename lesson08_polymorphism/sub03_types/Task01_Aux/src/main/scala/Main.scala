@@ -27,12 +27,12 @@ final case class BoolVect8(values: Byte) extends AnyVal with Vect {
     val newValue = if (item) (values | mask).toByte else (values & ~mask).toByte
     BoolVect8(newValue)
   }
+  def toList(vect: Vect): List[vect.Item] =
+    List.tabulate(vect.length)(vect.get)
 }
 
-def toList(vect: Vect): List[vect.Item] =
-  List.tabulate(vect.length)(vect.get)
-
 object Main {
+
   def main(args: Array[String]): Unit = {
     println("Testing BoolVect8:")
     val v8 = BoolVect8(1)
