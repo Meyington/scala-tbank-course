@@ -21,8 +21,8 @@
 |   lesson03_types/           | Типы                        | ✅ |
 |   lesson04_functions/       | Функции                     | ✅ |
 |   lesson05_operators/       | Операторы                   | ✅ |
-|   lesson06_collections/     | Коллекции                   | ⏳ |
-|   lesson07_classes/         | Классы                      | ❌ |
+|   lesson06_collections/     | Коллекции                   | ✅ |
+|   lesson07_classes/         | Классы                      | ⏳ |
 |   lesson08_polymorphism/    | Параметрический полиморфизм | ❌ |
 
 Каждая папка соответствует теме урока и содержит кодовые примеры и решения задач.
